@@ -2,15 +2,15 @@
 discord.py==2.6.1
 discord-py-slash-command==4.2.1
 
-# HTTP requests
+# HTTP requests & async
 requests==2.32.0
-aiohttp==3.9.6
+aiohttp==3.8.5
 
 # Data handling
 pandas==2.0.3
 numpy==1.26.2
 
-# Webserver (if needed for uptime/pings)
+# Webserver (optional, uptime/pings)
 flask==2.3.5
 
 # Scheduling tasks (optional)
